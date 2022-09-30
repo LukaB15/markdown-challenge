@@ -11,7 +11,7 @@
 | Birthday  | 07/10  |
 | Favorite color  | Green   |
 |  Favorite food |  spaghetti bolognaise |
-|  Pinapple on pizza ? |  No |
+|  Pinapple on pizza ? | &#9744; |
 
 #### My hobbies are : ####
 
