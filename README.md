@@ -31,7 +31,8 @@
 I was a bit dumb when I was a kid
 
 
-<< [Previous](https://github.com/Shikibata/markdown-challenge.git) | Luka Brabant | [Next](https://github.com/MaximeHoll/markdown-challenge) >>
+
+<< [Previous](https://github.com/Shikibata/markdown-challenge.git) | [Luka Brabant](https://lukab15.github.io/markdown-to-html/) | [Next](https://github.com/MaximeHoll/markdown-challenge) >>
 
 
 
